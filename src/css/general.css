@@ -1,0 +1,24 @@
+.bg-1 {background-color: #C4313B; color: #ffffff;}
+h1{margin:0px;}
+.H10{height:10px;}
+.H20{height:20px;}
+.H50{height:50px;}
+.H70{height:70px;}
+.H100{height:100px;}
+.H120{height:120px;}
+.H130{height:130px;}
+.H150{height:150px;}
+.H200{height:200px;}
+.H250{height:250px;}
+.H350{height:350px;}
+.PT10{padding-top:10px}
+.PT3{padding-top:5px}
+.brd{border-top:1px solid grey}
+.row-no-padding >[class*="col-"] {
+  padding-left: 0 !important;
+  padding-right: 0 !important;  
+  }
+.row span{line-height:30px}
+.tprt{background: none; color:red; border: none}
+.tprt:hover{background: none; color:red; border: none}
+.wrraper{ border:1px solid red; width:1500px;margin-left: auto; margin-right:auto;  }
